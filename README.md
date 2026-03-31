@@ -1,115 +1,136 @@
-Digital Literacy Portfolio — CSE0001
-VIT Bhopal University | School of Computing Science and Engineering
-FieldDetailsName[Your Full Name]Registration No.[Your Reg Number]BranchB.Tech — Computer Science EngineeringYear / SemesterFirst Year / Semester IICourse CodeCSE0001 — Digital LiteracyFaculty[Faculty Name]Submission Date31 March 2026
+# 📘 Digital Literacy Portfolio  
+**CSE0001 | VIT Bhopal University**
 
-About This Project
-This repository contains my Digital Literacy Portfolio, submitted as part of the CSE0001 course at VIT Bhopal University. The project follows a Student Digital Ambassador scenario where I had to build a portfolio across five modules — covering digital tools, professional profiles, coding platforms, email etiquette, and cybercrime awareness.
+## 👤 Student Details
+- **Name:** Pratham Kumar Yadav  
+- **Registration No.:** 25BAI11304  
+- **Branch:** B.Tech — Computer Science Engineering  
+- **Year/Semester:** First Year / Semester II  
 
-Repository Structure
-digital-literacy-project/
-│
-├── README.md
-├── report/
-│   └── Project_Report_CSE0001.pdf
-│
-├── task-1-presentation/
-│   └── infographic.png
-│
-├── task-2-portfolio/
-│   ├── github-profile-screenshot.png
-│   ├── linkedin-profile-screenshot.png
-│   └── kaggle-profile-screenshot.png
-│
-├── task-3-platforms/
-│   ├── hackerrank-challenge-screenshot.png
-│   ├── google-form-screenshot.png
-│   └── google-sheet-responses-screenshot.png
-│
-├── task-4-email-etiquette/
-│   ├── professional-emails.pdf
-│   └── social-media-checklist.md
-│
-└── task-5-cybercrime/
-    ├── casestudy.pdf
-    └── prevention-checklist.pdf
+---
 
-Task Summaries
-Task 1 — Digital Literacy Infographic
-Tool used: Canva (canva.com)
-I created a one-page infographic to help batchmates understand what Digital Literacy means in everyday college life. It covers three topics:
+## 📌 Project Overview
+This project was completed as part of the **Digital Literacy (CSE0001)** course at VIT Bhopal University.
 
-What is Digital Literacy? — a plain-English definition of the term
-Useful Digital Tools for Students — Google Drive, Notion, GitHub, and Canva with brief descriptions
-Safe Internet Practices — five quick tips including strong passwords, avoiding unknown Wi-Fi for banking, and checking URLs before clicking
+Under the **Student Digital Ambassador** initiative, the objective was to build a **practical digital literacy portfolio** across five modules — not just learning concepts, but actively using real tools and platforms.
 
-The hardest part was fitting everything onto one page without it looking cluttered. The process taught me that good communication is about choosing what to leave out, not just what to include.
-📎 See: task-1-presentation/
-🔗 Canva link: [paste your Canva link here]
+By the end of this project, I:
+- Created and optimized my GitHub, LinkedIn, and Kaggle profiles  
+- Completed a coding challenge on HackerRank  
+- Designed an infographic and a quiz for students  
+- Drafted professional emails  
+- Researched real-world cybercrime scenarios  
 
-Task 2 — Student Digital Portfolio
-Platforms set up: GitHub, LinkedIn, Kaggle
+---
 
-GitHub — I created a profile README repository with my name, branch, year, and a sentence about what I hope to learn. GitHub is where all my future code projects will live and where recruiters can see actual work rather than just a CV.
-LinkedIn — I filled in the Education section with my degree (B.Tech CSE), institution (VIT Bhopal University), and expected graduation year (2028).
-Kaggle — I created an account to begin building data science skills. Kaggle has free beginner courses and competitions, which I plan to use alongside my coursework.
+## 🧩 Tasks Overview
 
-My plan is to grow these profiles consistently over four years — building in Years 1–2, applying for internships via LinkedIn in Year 3, and presenting a complete portfolio during Year 4 placements.
-📎 See: task-2-portfolio/
-🔗 GitHub profile: [github.com/yourusername]
-🔗 LinkedIn: [your LinkedIn URL]
+### 📊 Task 1 — Digital Literacy Infographic
+- Designed using **Canva**
+- Covers:
+  - Definition of digital literacy  
+  - Useful tools (Google Drive, GitHub, Notion, Canva)  
+  - Safe internet practices  
 
-Task 3 — Coding & Collaboration Platforms
-Part A — HackerRank
-I completed the Solve Me First beginner challenge on HackerRank. Beyond the problem itself, the value was in learning how the submission process works — reading a problem statement, writing code, running it against test cases, and submitting. I also explored the Skills Certification section for future attempts.
-Part B — Google Forms Quiz
-I built a five-question Digital Literacy Awareness Quiz using Google Forms:
+💡 **Key Learning:**  
+Effective communication is about clarity, not quantity.
 
-(MCQ) Which password practice is safest?
-(MCQ) What does phishing mean?
-(Short Answer) Name one digital tool you use for studying and explain why it helps.
-(MCQ) Which platform is NOT professional — LinkedIn, GitHub, Snapchat, or Kaggle?
-(Short Answer) What would you do if your bank emailed asking you to click a link and enter your details?
+📁 File: `task-1-presentation/infographic.png`
 
-Responses are automatically collected in a linked Google Sheet.
-📎 See: task-3-platforms/
-🔗 Google Form link: [paste your form link here]
+---
 
-Task 4 — Email Etiquette & Social Media
-Part A — Professional Emails
-Two emails drafted and saved in task-4-email-etiquette/:
+### 🌐 Task 2 — Student Digital Portfolio
+Platforms created:
+- GitHub → Code portfolio  
+- LinkedIn → Professional networking  
+- Kaggle → Data science learning  
 
-Deadline Extension Request — an email from a student to a professor requesting a three-day extension due to illness, referencing a medical certificate and proposing a specific new date.
-Internship Interest — an email to an internship coordinator at a tech company, expressing genuine interest while acknowledging first-year status and offering a GitHub profile as a reference.
+📈 **4-Year Plan:**
+- Year 1–2: Build and explore  
+- Year 3: Apply for internships  
+- Year 4: Showcase a strong portfolio  
 
-Both follow proper email structure: clear subject line, formal greeting, structured body, and professional sign-off.
-Part B — Social Media Do's & Don'ts
-A checklist of six Do's and six Don'ts for responsible social media use as a college student. Key points include thinking before posting, protecting location data, verifying sources before sharing, and not reusing passwords across platforms.
-📎 See: task-4-email-etiquette/
+💡 **Key Learning:**  
+Start early. Even an empty profile is better than not existing online.
 
-Task 5 — Cybercrime Awareness
-Case Study: UPI / Online Payment Fraud
-I documented how a typical UPI collect-request scam works step by step — from the fraudster making contact via OLX or a college group, building false trust, sending a collect request disguised as a payment, and vanishing once the victim approves it. College students buying and selling second-hand items online are a primary target.
-Prevention Checklist (10 points)
-Key tips include:
+---
 
-Never share your OTP, UPI PIN, or CVV with anyone
-A collect request takes money FROM you — never approve one from a stranger
-Enable transaction limits on your UPI app
-You never need to scan a QR code to receive money
-Report at cybercrime.gov.in or call 1930 (24x7) immediately if targeted
+### 💻 Task 3 — Coding & Collaboration
 
-📎 See: task-5-cybercrime/
+#### 🔹 HackerRank
+- Completed **"Solve Me First"** challenge  
+- Learned submission workflow and test cases  
 
-References
+#### 🔹 Google Forms Quiz
+- Created a **Digital Literacy Awareness Quiz**
+- Topics:
+  - Password safety  
+  - Phishing  
+  - Two-factor authentication (2FA)  
+  - Responsible digital usage  
 
-Canva — canva.com
-GitHub — github.com
-LinkedIn — linkedin.com
-Kaggle — kaggle.com
-HackerRank — hackerrank.com
-Google Forms — forms.google.com
-National Cyber Crime Reporting Portal — cybercrime.gov.in
-Cyber Crime Helpline — 1930 (Ministry of Home Affairs, India)
+💡 **Key Learning:**  
+Coding improves with practice, not theory.
 
+---
 
-Submitted as part of CSE0001 — Digital Literacy | VIT Bhopal University
+### 📧 Task 4 — Email Etiquette & Communication
+
+#### ✉️ Emails Created:
+1. Deadline extension request  
+2. Internship application email  
+
+#### 📱 Social Media Checklist:
+- Do’s: Privacy, professionalism, verification  
+- Don’ts: Oversharing, fake news, weak security  
+
+💡 **Key Learning:**  
+Your online audience is always bigger than you think.
+
+---
+
+### 🔐 Task 5 — Cybercrime Awareness
+
+#### 📌 Case Study: UPI Fraud
+- Social engineering scam using collect requests  
+- No hacking involved — purely psychological manipulation  
+
+#### ⚠️ Prevention Tips:
+- Never share OTP or UPI PIN  
+- Read payment requests carefully  
+- Avoid unknown links and QR codes  
+- Report immediately (1930 / cybercrime.gov.in)  
+
+💡 **Key Learning:**  
+A 5-second pause before approving payments can prevent major loss.
+
+---
+
+## 🎯 Conclusion
+This project helped me move from **theoretical understanding to practical execution**.
+
+I now have:
+- A functional digital presence  
+- Hands-on experience with real tools  
+- Awareness of digital risks  
+- Better communication habits  
+
+👉 Digital literacy is not just knowledge — it is a set of habits.
+
+---
+
+## 📚 References
+- Canva — https://canva.com  
+- GitHub — https://github.com  
+- LinkedIn — https://linkedin.com  
+- Kaggle — https://kaggle.com  
+- HackerRank — https://hackerrank.com  
+- Google Forms — https://forms.google.com  
+- National Cyber Crime Portal — https://cybercrime.gov.in  
+- Cyber Helpline — 1930  
+
+---
+
+## 🚀 Author Note
+This portfolio marks the **beginning of my digital journey**, not the end.  
+I plan to continuously build, improve, and contribute over the next four years.
