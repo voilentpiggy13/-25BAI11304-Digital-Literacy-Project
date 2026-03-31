@@ -70,7 +70,7 @@ I built a five-question Digital Literacy Awareness Quiz using Google Forms:
 
 Responses are automatically collected in a linked Google Sheet.
  See: task-3-platforms/
- Google Form link: https://docs.google.com/forms/d/e/1FAIpQLSfZui31zUL72YVKlQJBotsKV5V2E4GpWrauvqFkk8HrPJWZKA/viewform?usp=header
+ Google Form link: https://docs.google.com/forms/d/1whuVZyvggeLerKb2plfbse2bRQGfI9owjZrTEYQOAFA/edit
 
 Task 4 — Email Etiquette & Social Media
 Part A — Professional Emails
